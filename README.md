@@ -1,6 +1,3 @@
-Here's a description you can use for your GitHub README:
-
----
 
 # Flight Fare Prediction Model
 
